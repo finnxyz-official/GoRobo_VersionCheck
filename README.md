@@ -45,6 +45,14 @@ If you're seeing a kick or license warning in your game, please contact the GoRo
 
 ---
 
+## ❗️NOTICE
+
+This repository is not meant for public use or contribution. Forking, starring, or creating pull requests is strictly prohibited.
+
+All rights reserved – no code may be reused, modified, or redistributed without explicit permission.
+
+---
+
 ## 🔄 Want to check your version?
 
 Simply join your game and check the console which will probably say something like this:
